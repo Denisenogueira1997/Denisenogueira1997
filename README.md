@@ -11,7 +11,7 @@ Junior Android Developer focused on building modern mobile applications using **
 - Retrofit
 - Coroutines
 - Firebase
-- Java & Spring Boot (backend knowledge)
+- Java (backend knowledge)
 
 ---
 
