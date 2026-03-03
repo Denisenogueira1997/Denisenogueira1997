@@ -1,35 +1,54 @@
-# Hello!
+# 👋 Hello! I'm Denise
 
-My name is Denise and I am a Junior Android Developer with hands-on experience in building mobile applications using Kotlin, Jetpack Compose, and Room Database. Skilled in creating intuitive user interfaces, integrating Firebase services, and delivering high-quality solutions that enhance user experience.
+Junior Android Developer focused on building modern mobile applications using **Kotlin** and **Jetpack Compose**.
 
-Currently seeking new opportunities to grow as a mobile developer, contribute to innovative projects, and expand my expertise in Android development. Open to collaborating with dynamic teams and eager to learn new technologies to deliver impactful results.
+## 🚀 Tech Stack
 
-## My Apps
+- Kotlin
+- Jetpack Compose
+- MVVM Architecture
+- Room Database
+- Retrofit
+- Coroutines
+- Firebase
+- Java & Spring Boot (backend knowledge)
 
-Those are some of my most recently applications
+---
 
-[MovieSorteio](https://github.com/Denisenogueira1997/SorteioDeFilmes)\
-App for raffling movies using the TMDB API.\
-*Stack:* Kotlin, Retrofit, Jetpack Compose, TMDB API.
+## 📱 Featured Apps
 
-[Buy-List](https://github.com/Denisenogueira1997/Buy-List)\
-App for conveniently calculating shopping expenses.\
-*Stack:* Kotlin, Jetpack Compose, local calculation logic.
+### 🎬 MovieSorteio
+Android app that consumes the TMDB API using Retrofit and Coroutines, built with Jetpack Compose and MVVM architecture.
 
-[Fun-Night](https://github.com/Denisenogueira1997/Fun-Night)\
-App for raffling movies, series, anime, and cartoons based on user ratings via the TMDB API.\
-*Stack:* Kotlin, Jetpack Compose, Retrofit, content filtering.
-<!--
-**Denisenogueira1997/Denisenogueira1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Tech:** Kotlin • Compose • Retrofit • Coroutines • MVVM
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛒 Buy-List
+Shopping expense calculator app with real-time total updates and modern Compose UI.
+
+**Tech:** Kotlin • Compose • State management
+
+
+
+---
+
+### 🌙 Fun-Night
+Content recommendation app with filtering system and TMDB integration.
+
+**Tech:** Kotlin • Compose • Retrofit • MVVM
+
+
+---
+
+## 🎯 Currently
+
+- 🔍 Seeking Android Developer Junior opportunities
+- 📚 Continuously improving Android skills
+- 🚀 Building real-world projects
+
+---
+
+🔗 **LinkedIn:** (https://www.linkedin.com/in/denise-nogueira-da-cunha-1a6b00265?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
+🔗 **Email:** (denisenogueira75412@gmail.com)
