@@ -28,7 +28,7 @@ Android app that consumes the TMDB API using Retrofit and Coroutines, built with
 ### 🛒 Buy-List
 Shopping expense calculator app with real-time total updates and modern Compose UI.
 
-**Tech:** Kotlin • Compose • State management
+Tech: Kotlin • Compose • StateFlow • MVVM
 
 
 
