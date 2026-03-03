@@ -1,4 +1,5 @@
 # 👋 Hello! I'm Denise
+📍 Brazil | Open to Remote
 
 Junior Android Developer focused on building modern mobile applications using **Kotlin** and **Jetpack Compose**.
 
