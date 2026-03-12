@@ -1,4 +1,7 @@
-📍 Brazil | Open to Remote
+📌 Brazil | Open to Remote
+📧 denisenogueira75412@gmail.com
+🔗 LinkedIn
+
 # 👋 Hello! I'm Denise
 
 Android Developer focused on Kotlin and Jetpack Compose
