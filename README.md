@@ -54,8 +54,3 @@ Content recommendation app with filtering system and TMDB integration.
 - 📚 Continuously improving Android skills
 - 🚀 Building real-world projects
 
----
-
-🔗 **LinkedIn:** (https://www.linkedin.com/in/denise-nogueira-da-cunha-1a6b00265?utm_source=share_via&utm_content=profile&utm_medium=member_android) 
-
-🔗 **Email:** (denisenogueira75412@gmail.com)
