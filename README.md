@@ -1,4 +1,5 @@
 📌 Brazil | Open to Remote
+
 📧 denisenogueira75412@gmail.com
 
 🔗 https://www.linkedin.com/in/denise-nogueira-da-cunha-1a6b00265
